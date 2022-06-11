@@ -23,7 +23,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | C# | .NET 
+- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | Angular | ReactJS | C# | .NET 
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Nest.JS
 - 🛢 &nbsp; MongoDB | MySQL | SQL Server
 - 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
